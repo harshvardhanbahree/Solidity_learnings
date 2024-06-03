@@ -1,0 +1,6 @@
+
+How to save Gas
+
+1. Try making state varibales as constants rather then making regular constants. By making state variable as
+constants you will be able to save Gas when deploying the contract and also while accessing the public state vairables.
+    Example: address constant MYADDRESS = 'asdfasdfasdfasdfasdf';
